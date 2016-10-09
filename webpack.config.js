@@ -23,7 +23,6 @@ module.exports = {
         exclude: /node_modules/
       }
     ],
-
     loaders: [
       {
         test: /\.jsx?$/,

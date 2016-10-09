@@ -1,0 +1,307 @@
+{
+
+    "buoys": [{
+        "title": "Station 44025 - LONG ISLAND - 30 NM SOUTH OF ISLIP, NY",
+        "pubDate": "Sun, 09 Oct 2016 19:05:30 +0000",
+        "description": [
+            "<strong>October 9, 2016 1:50 pm EDT</strong><br />",
+            "<strong>Location:</strong> 40.251N 73.164W or 17 nautical miles NNW of search location of 40N 73W.<br />",
+            "<strong>Wind Direction:</strong> N (10&#176;)<br />",
+            "<strong>Wind Speed:</strong> 29 knots<br />",
+            "<strong>Wind Gust:</strong> 35 knots<br />",
+            "<strong>Significant Wave Height:</strong> 9 ft<br />",
+            "<strong>Dominant Wave Period:</strong> 6 sec<br />",
+            "<strong>Average Period:</strong> 5.5 sec<br />",
+            "<strong>Mean Wave Direction:</strong> N (357&#176;)<br />",
+            "<strong>Atmospheric Pressure:</strong> 29.86 in (1011.3 mb)<br />",
+            "<strong>Pressure Tendency:</strong> -0.02 in (-0.7 mb)<br />",
+            "<strong>Air Temperature:</strong> 58&#176;F (14.7&#176;C)<br />",
+            "<strong>Water Temperature:</strong> 64&#176;F (17.9&#176;C)<br />"
+        ]
+    }, {
+        "title": "Station 44066 - TEXAS TOWER #4 - 75 NM EAST OF LONG BEACH, NJ",
+        "pubDate": "Sun, 09 Oct 2016 19:05:29 +0000",
+        "description": [
+            "<strong>October 9, 2016 1:50 pm EDT</strong><br />",
+            "<strong>Location:</strong> 39.568N 72.586W or 32 nautical miles SE of search location of 40N 73W.<br />",
+            "<strong>Significant Wave Height:</strong> 11 ft<br />",
+            "<strong>Dominant Wave Period:</strong> 7 sec<br />",
+            "<strong>Average Period:</strong> 6.1 sec<br />",
+            "<strong>Mean Wave Direction:</strong> N (9&#176;)<br />",
+            "<strong>Atmospheric Pressure:</strong> 29.71 in (1006.0 mb)<br />",
+            "<strong>Pressure Tendency:</strong> -0.11 in (-3.6 mb)<br />",
+            "<strong>Air Temperature:</strong> 61&#176;F (16.2&#176;C)<br />",
+            "<strong>Water Temperature:</strong> 67&#176;F (19.2&#176;C)<br />"
+        ]
+    }, {
+        "title": "Station 44091 - BARNEGAT, NJ (209)",
+        "pubDate": "Sun, 09 Oct 2016 19:05:28 +0000",
+        "description": [
+            "<strong>October 9, 2016 2:30 pm EDT</strong><br />",
+            "<strong>Location:</strong> 39.778N 73.769W or 38 nautical miles WSW of search location of 40N 73W.<br />",
+            "<strong>Significant Wave Height:</strong> 13 ft<br />",
+            "<strong>Dominant Wave Period:</strong> 7 sec<br />",
+            "<strong>Average Period:</strong> 6.3 sec<br />",
+            "<strong>Mean Wave Direction:</strong> NNE (20&#176;)<br />",
+            "<strong>Water Temperature:</strong> 66&#176;F (18.9&#176;C)<br />"
+        ]
+    }, {
+        "title": "Station 44065 - NEW YORK HARBOR ENTRANCE - 15 NM SE OF BREEZY POINT , NY",
+        "pubDate": "Sun, 09 Oct 2016 19:05:27 +0000",
+        "description": [
+            "<strong>October 9, 2016 1:50 pm EDT</strong><br />",
+            "<strong>Location:</strong> 40.369N 73.703W or 39 nautical miles NW of search location of 40N 73W.<br />",
+            "<strong>Wind Direction:</strong> N (360&#176;)<br />",
+            "<strong>Wind Speed:</strong> 27 knots<br />",
+            "<strong>Wind Gust:</strong> 31 knots<br />",
+            "<strong>Significant Wave Height:</strong> 7 ft<br />",
+            "<strong>Dominant Wave Period:</strong> 5 sec<br />",
+            "<strong>Average Period:</strong> 5.0 sec<br />",
+            "<strong>Mean Wave Direction:</strong> N (4&#176;)<br />",
+            "<strong>Atmospheric Pressure:</strong> 29.91 in (1012.9 mb)<br />",
+            "<strong>Pressure Tendency:</strong> -0.03 in (-1.0 mb)<br />",
+            "<strong>Air Temperature:</strong> 56&#176;F (13.2&#176;C)<br />",
+            "<strong>Dew Point:</strong> 53&#176;F (11.6&#176;C)<br />",
+            "<strong>Water Temperature:</strong> 67&#176;F (19.5&#176;C)<br />"
+        ]
+    }, {
+        "title": "Station 44069 - GREAT SOUTH BAY",
+        "pubDate": "Sun, 09 Oct 2016 19:05:26 +0000",
+        "description": [
+            "<strong>October 9, 2016 2:30 pm EDT</strong><br />",
+            "<strong>Location:</strong> 40.72N 73.093W or 43 nautical miles N of search location of 40N 73W.<br />",
+            "<strong>Wind Direction:</strong> NNE (30&#176;)<br />",
+            "<strong>Wind Speed:</strong> 19 knots<br />",
+            "<strong>Wind Gust:</strong> 31 knots<br />",
+            "<strong>Air Temperature:</strong> 55&#176;F (12.8&#176;C)<br />",
+            "<strong>Dew Point:</strong> 54&#176;F (12.0&#176;C)<br />",
+            "<strong>Water Temperature:</strong> 64&#176;F (17.8&#176;C)<br />"
+        ]
+    }, {
+        "title": "Station SDHN4 - 8531680 - SANDY HOOK, NJ",
+        "pubDate": "Sun, 09 Oct 2016 19:05:25 +0000",
+        "description": [
+            "<strong>October 9, 2016 2:30 pm EDT</strong><br />",
+            "<strong>Location:</strong> 40.467N 74.009W or 54 nautical miles WNW of search location of 40N 73W.<br />",
+            "<strong>Wind Direction:</strong> N (10&#176;)<br />",
+            "<strong>Wind Speed:</strong> 15 knots<br />",
+            "<strong>Wind Gust:</strong> 25 knots<br />",
+            "<strong>Atmospheric Pressure:</strong> 29.95 in (1014.3 mb)<br />",
+            "<strong>Air Temperature:</strong> 55&#176;F (12.9&#176;C)<br />",
+            "<strong>Water Temperature:</strong> 65&#176;F (18.6&#176;C)<br />"
+        ]
+    }, {
+        "title": "Station 44017 - MONTAUK POINT - 23 NM SSW OF MONTAUK POINT, NY",
+        "pubDate": "Sun, 09 Oct 2016 19:05:24 +0000",
+        "description": [
+            "<strong>October 9, 2016 1:50 pm EDT</strong><br />",
+            "<strong>Location:</strong> 40.694N 72.048W or 60 nautical miles NE of search location of 40N 73W.<br />",
+            "<strong>Wind Direction:</strong> N (360&#176;)<br />",
+            "<strong>Wind Speed:</strong> 31 knots<br />",
+            "<strong>Wind Gust:</strong> 35 knots<br />",
+            "<strong>Significant Wave Height:</strong> 7 ft<br />",
+            "<strong>Dominant Wave Period:</strong> 6 sec<br />",
+            "<strong>Atmospheric Pressure:</strong> 29.85 in (1011.0 mb)<br />",
+            "<strong>Pressure Tendency:</strong> -0.04 in (-1.5 mb)<br />",
+            "<strong>Air Temperature:</strong> 59&#176;F (14.8&#176;C)<br />",
+            "<strong>Dew Point:</strong> 56&#176;F (13.6&#176;C)<br />",
+            "<strong>Water Temperature:</strong> 64&#176;F (17.5&#176;C)<br />"
+        ]
+    }, {
+        "title": "Station KPTN6 - 8516945 - KINGS POINT, NY",
+        "pubDate": "Sun, 09 Oct 2016 19:05:23 +0000",
+        "description": [
+            "<strong>October 9, 2016 2:30 pm EDT</strong><br />",
+            "<strong>Location:</strong> 40.811N 73.765W or 60 nautical miles NW of search location of 40N 73W.<br />",
+            "<strong>Wind Speed:</strong> 20 knots<br />",
+            "<strong>Wind Gust:</strong> 27 knots<br />",
+            "<strong>Atmospheric Pressure:</strong> 29.96 in (1014.7 mb)<br />",
+            "<strong>Air Temperature:</strong> 55&#176;F (12.6&#176;C)<br />",
+            "<strong>Water Temperature:</strong> 66&#176;F (19.0&#176;C)<br />"
+        ]
+    }, {
+        "title": "Station BATN6 - 8518750 - THE BATTERY, NY",
+        "pubDate": "Sun, 09 Oct 2016 19:05:22 +0000",
+        "description": [
+            "<strong>October 9, 2016 2:30 pm EDT</strong><br />",
+            "<strong>Location:</strong> 40.701N 74.014W or 63 nautical miles NW of search location of 40N 73W.<br />",
+            "<strong>Atmospheric Pressure:</strong> 29.96 in (1014.4 mb)<br />",
+            "<strong>Air Temperature:</strong> 55&#176;F (12.6&#176;C)<br />",
+            "<strong>Water Temperature:</strong> 68&#176;F (19.9&#176;C)<br />"
+        ]
+    }, {
+        "title": "Station ROBN4 - 8530973 - ROBBINS REEF, NJ",
+        "pubDate": "Sun, 09 Oct 2016 19:05:21 +0000",
+        "description": [
+            "<strong>October 9, 2016 2:30 pm EDT</strong><br />",
+            "<strong>Location:</strong> 40.657N 74.065W or 63 nautical miles NW of search location of 40N 73W.<br />",
+            "<strong>Wind Direction:</strong> N (360&#176;)<br />",
+            "<strong>Wind Speed:</strong> 19 knots<br />",
+            "<strong>Wind Gust:</strong> 25 knots<br />",
+            "<strong>Atmospheric Pressure:</strong> 29.96 in (1014.6 mb)<br />",
+            "<strong>Air Temperature:</strong> 55&#176;F (12.7&#176;C)<br />"
+        ]
+    }, {
+        "title": "Station SCP02 - NDBC/OPT ENGINEERING TEST STATION",
+        "pubDate": "Sun, 09 Oct 2016 19:05:20 +0000",
+        "description": [
+            "<strong>October 9, 2016 2:50 pm EDT</strong><br />",
+            "<strong>Location:</strong> 39.476N 74.214W or 64 nautical miles WSW of search location of 40N 73W.<br />",
+            "<strong>Wind Direction:</strong> WNW (290&#176;)<br />",
+            "<strong>Wind Speed:</strong> 31 knots<br />",
+            "<strong>Wind Gust:</strong> 39 knots<br />",
+            "<strong>Atmospheric Pressure:</strong> 29.89 in (1012.2 mb)<br />",
+            "<strong>Air Temperature:</strong> 56&#176;F (13.1&#176;C)<br />",
+            "<strong>Dew Point:</strong> 53&#176;F (11.6&#176;C)<br />"
+        ]
+    }, {
+        "title": "Station BGNN4 - 8519483 - BERGEN POINT WEST REACH, NY",
+        "pubDate": "Sun, 09 Oct 2016 19:05:19 +0000",
+        "description": [
+            "<strong>October 9, 2016 2:30 pm EDT</strong><br />",
+            "<strong>Location:</strong> 40.639N 74.146W or 65 nautical miles NW of search location of 40N 73W.<br />",
+            "<strong>Atmospheric Pressure:</strong> 29.96 in (1014.4 mb)<br />",
+            "<strong>Air Temperature:</strong> 56&#176;F (13.6&#176;C)<br />",
+            "<strong>Water Temperature:</strong> 66&#176;F (19.1&#176;C)<br />"
+        ]
+    }, {
+        "title": "Station MHRN6 - 8519532 - MARINERS HARBOR, NY",
+        "pubDate": "Sun, 09 Oct 2016 19:05:18 +0000",
+        "description": [
+            "<strong>October 9, 2016 2:30 pm EDT</strong><br />",
+            "<strong>Location:</strong> 40.641N 74.162W or 66 nautical miles NW of search location of 40N 73W.<br />",
+            "<strong>Wind Direction:</strong> N (360&#176;)<br />",
+            "<strong>Wind Speed:</strong> 13 knots<br />",
+            "<strong>Wind Gust:</strong> 18 knots<br />"
+        ]
+    }, {
+        "title": "Station BRHC3 - 8467150 - BRIDGEPORT, CT",
+        "pubDate": "Sun, 09 Oct 2016 19:05:17 +0000",
+        "description": [
+            "<strong>October 9, 2016 2:30 pm EDT</strong><br />",
+            "<strong>Location:</strong> 41.174N 73.181W or 71 nautical miles N of search location of 40N 73W.<br />",
+            "<strong>Wind Direction:</strong> N (10&#176;)<br />",
+            "<strong>Wind Speed:</strong> 9 knots<br />",
+            "<strong>Wind Gust:</strong> 12 knots<br />",
+            "<strong>Atmospheric Pressure:</strong> 29.97 in (1014.9 mb)<br />",
+            "<strong>Air Temperature:</strong> 54&#176;F (12.2&#176;C)<br />",
+            "<strong>Water Temperature:</strong> 67&#176;F (19.3&#176;C)<br />"
+        ]
+    }, {
+        "title": "Station JCRN4 - NACOTE CREEK, JACQUES COUSTEAU RESERVE, NJ",
+        "pubDate": "Sun, 09 Oct 2016 19:05:16 +0000",
+        "description": [
+            "<strong>October 9, 2016 2:30 pm EDT</strong><br />",
+            "<strong>Location:</strong> 39.535N 74.464W or 73 nautical miles WSW of search location of 40N 73W.<br />",
+            "<strong>Wind Direction:</strong> NNW (330&#176;)<br />",
+            "<strong>Wind Speed:</strong> 8 knots<br />",
+            "<strong>Atmospheric Pressure:</strong> 29.91 in (1013.0 mb)<br />",
+            "<strong>Air Temperature:</strong> 51&#176;F (10.7&#176;C)<br />",
+            "<strong>Dew Point:</strong> 50&#176;F (9.9&#176;C)<br />"
+        ]
+    }, {
+        "title": "Station ACYN4 - 8534720 - ATLANTIC CITY, NJ",
+        "pubDate": "Sun, 09 Oct 2016 19:05:15 +0000",
+        "description": [
+            "<strong>October 9, 2016 2:30 pm EDT</strong><br />",
+            "<strong>Location:</strong> 39.357N 74.418W or 76 nautical miles WSW of search location of 40N 73W.<br />",
+            "<strong>Atmospheric Pressure:</strong> 29.86 in (1011.3 mb)<br />",
+            "<strong>Air Temperature:</strong> 53&#176;F (11.7&#176;C)<br />",
+            "<strong>Water Temperature:</strong> 67&#176;F (19.2&#176;C)<br />"
+        ]
+    }, {
+        "title": "Station NWHC3 - 8465705 - NEW HAVEN, CT",
+        "pubDate": "Sun, 09 Oct 2016 19:05:14 +0000",
+        "description": [
+            "<strong>October 9, 2016 2:30 pm EDT</strong><br />",
+            "<strong>Location:</strong> 41.283N 72.908W or 77 nautical miles N of search location of 40N 73W.<br />",
+            "<strong>Wind Direction:</strong> NNE (30&#176;)<br />",
+            "<strong>Wind Speed:</strong> 18 knots<br />",
+            "<strong>Wind Gust:</strong> 24 knots<br />",
+            "<strong>Atmospheric Pressure:</strong> 29.96 in (1014.5 mb)<br />",
+            "<strong>Air Temperature:</strong> 54&#176;F (12.2&#176;C)<br />",
+            "<strong>Water Temperature:</strong> 67&#176;F (19.3&#176;C)<br />"
+        ]
+    }, {
+        "title": "Station MTKN6 - 8510560 - MONTAUK, NY",
+        "pubDate": "Sun, 09 Oct 2016 19:05:13 +0000",
+        "description": [
+            "<strong>October 9, 2016 2:30 pm EDT</strong><br />",
+            "<strong>Location:</strong> 41.048N 71.959W or 79 nautical miles NE of search location of 40N 73W.<br />",
+            "<strong>Atmospheric Pressure:</strong> 29.92 in (1013.3 mb)<br />",
+            "<strong>Air Temperature:</strong> 57&#176;F (13.9&#176;C)<br />",
+            "<strong>Water Temperature:</strong> 65&#176;F (18.5&#176;C)<br />"
+        ]
+    }, {
+        "title": "Station NBLP1 - 8548989 - NEWBOLD, PA",
+        "pubDate": "Sun, 09 Oct 2016 19:05:12 +0000",
+        "description": [
+            "<strong>October 9, 2016 2:30 pm EDT</strong><br />",
+            "<strong>Location:</strong> 40.137N 74.752W or 81 nautical miles W of search location of 40N 73W.<br />",
+            "<strong>Wind Direction:</strong> NNE (20&#176;)<br />",
+            "<strong>Wind Speed:</strong> 4 knots<br />",
+            "<strong>Wind Gust:</strong> 8 knots<br />",
+            "<strong>Atmospheric Pressure:</strong> 29.98 in (1015.1 mb)<br />",
+            "<strong>Air Temperature:</strong> 58&#176;F (14.2&#176;C)<br />",
+            "<strong>Water Temperature:</strong> 65&#176;F (18.2&#176;C)<br />"
+        ]
+    }, {
+        "title": "Station BDRN4 - 8539094 - BURLINGTON, DELAWARE RIVER, NJ",
+        "pubDate": "Sun, 09 Oct 2016 19:05:11 +0000",
+        "description": [
+            "<strong>October 9, 2016 2:30 pm EDT</strong><br />",
+            "<strong>Location:</strong> 40.082N 74.87W or 86 nautical miles W of search location of 40N 73W.<br />",
+            "<strong>Wind Direction:</strong> NNE (20&#176;)<br />",
+            "<strong>Wind Speed:</strong> 6 knots<br />",
+            "<strong>Wind Gust:</strong> 12 knots<br />",
+            "<strong>Atmospheric Pressure:</strong> 29.96 in (1014.5 mb)<br />",
+            "<strong>Air Temperature:</strong> 58&#176;F (14.3&#176;C)<br />",
+            "<strong>Water Temperature:</strong> 65&#176;F (18.4&#176;C)<br />"
+        ]
+    }, {
+        "title": "Station LDLC3 - NEW LONDON LEDGE CT - LEDGE LIGHT WEATHER STATION",
+        "pubDate": "Sun, 09 Oct 2016 19:05:10 +0000",
+        "description": [
+            "<strong>October 9, 2016 2:35 pm EDT</strong><br />",
+            "<strong>Location:</strong> 41.306N 72.077W or 89 nautical miles NNE of search location of 40N 73W.<br />",
+            "<strong>Wind Direction:</strong> NNE (20&#176;)<br />",
+            "<strong>Wind Speed:</strong> 24 knots<br />",
+            "<strong>Wind Gust:</strong> 32 knots<br />",
+            "<strong>Atmospheric Pressure:</strong> 29.90 in (1012.4 mb)<br />",
+            "<strong>Air Temperature:</strong> 56&#176;F (13.2&#176;C)<br />",
+            "<strong>Dew Point:</strong> 53&#176;F (11.5&#176;C)<br />"
+        ]
+    }, {
+        "title": "Station NLNC3 - 8461490 - NEW LONDON, CT",
+        "pubDate": "Sun, 09 Oct 2016 19:05:09 +0000",
+        "description": [
+            "<strong>October 9, 2016 2:30 pm EDT</strong><br />",
+            "<strong>Location:</strong> 41.361N 72.09W or 92 nautical miles NNE of search location of 40N 73W.<br />",
+            "<strong>Wind Direction:</strong> NNE (30&#176;)<br />",
+            "<strong>Wind Speed:</strong> 6 knots<br />",
+            "<strong>Wind Gust:</strong> 15 knots<br />",
+            "<strong>Atmospheric Pressure:</strong> 29.93 in (1013.5 mb)<br />",
+            "<strong>Air Temperature:</strong> 66&#176;F (18.9&#176;C)<br />",
+            "<strong>Water Temperature:</strong> 56&#176;F (13.4&#176;C)<br />"
+        ]
+    }, {
+        "title": "Station BDSP1 - 8546252 - BRIDESBURG, PA",
+        "pubDate": "Sun, 09 Oct 2016 19:05:08 +0000",
+        "description": [
+            "<strong>October 9, 2016 2:30 pm EDT</strong><br />",
+            "<strong>Location:</strong> 39.98N 75.079W or 96 nautical miles W of search location of 40N 73W.<br />",
+            "<strong>Atmospheric Pressure:</strong> 29.98 in (1015.3 mb)<br />",
+            "<strong>Air Temperature:</strong> 60&#176;F (15.5&#176;C)<br />"
+        ]
+    }, {
+        "title": "Station PHBP1 - 8545240 - PHILADELPHIA, PA",
+        "pubDate": "Sun, 09 Oct 2016 19:05:07 +0000",
+        "description": [
+            "<strong>October 9, 2016 2:30 pm EDT</strong><br />",
+            "<strong>Location:</strong> 39.933N 75.142W or 99 nautical miles W of search location of 40N 73W.<br />",
+            "<strong>Atmospheric Pressure:</strong> 29.95 in (1014.3 mb)<br />",
+            "<strong>Air Temperature:</strong> 61&#176;F (16.1&#176;C)<br />",
+            "<strong>Water Temperature:</strong> 68&#176;F (20.1&#176;C)<br />"
+        ]
+    }]
+}
