@@ -1,6 +1,6 @@
 # Buoy Tracker
 
-Welcome to a Buoy Tracker!
+Welcome to a Buoy Station Tracker!
 
 ## Contributing
 
