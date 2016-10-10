@@ -2,6 +2,7 @@
 
     "buoys": [{
         "title": "Station 44025 - LONG ISLAND - 30 NM SOUTH OF ISLIP, NY",
+        "stationId": "44025",
         "pubDate": "Sun, 09 Oct 2016 19:05:30 +0000",
         "description": [
             "<strong>October 9, 2016 1:50 pm EDT</strong><br />",
@@ -20,6 +21,7 @@
         ]
     }, {
         "title": "Station 44066 - TEXAS TOWER #4 - 75 NM EAST OF LONG BEACH, NJ",
+        "stationId": "44066",
         "pubDate": "Sun, 09 Oct 2016 19:05:29 +0000",
         "description": [
             "<strong>October 9, 2016 1:50 pm EDT</strong><br />",
@@ -35,6 +37,7 @@
         ]
     }, {
         "title": "Station 44091 - BARNEGAT, NJ (209)",
+        "stationId": "44091",
         "pubDate": "Sun, 09 Oct 2016 19:05:28 +0000",
         "description": [
             "<strong>October 9, 2016 2:30 pm EDT</strong><br />",
@@ -47,6 +50,7 @@
         ]
     }, {
         "title": "Station 44065 - NEW YORK HARBOR ENTRANCE - 15 NM SE OF BREEZY POINT , NY",
+        "stationId": "44065",
         "pubDate": "Sun, 09 Oct 2016 19:05:27 +0000",
         "description": [
             "<strong>October 9, 2016 1:50 pm EDT</strong><br />",
@@ -66,6 +70,7 @@
         ]
     }, {
         "title": "Station 44069 - GREAT SOUTH BAY",
+        "stationId": "44069",
         "pubDate": "Sun, 09 Oct 2016 19:05:26 +0000",
         "description": [
             "<strong>October 9, 2016 2:30 pm EDT</strong><br />",
@@ -79,6 +84,7 @@
         ]
     }, {
         "title": "Station SDHN4 - 8531680 - SANDY HOOK, NJ",
+        "stationId": "SDHN4",
         "pubDate": "Sun, 09 Oct 2016 19:05:25 +0000",
         "description": [
             "<strong>October 9, 2016 2:30 pm EDT</strong><br />",
@@ -92,6 +98,7 @@
         ]
     }, {
         "title": "Station 44017 - MONTAUK POINT - 23 NM SSW OF MONTAUK POINT, NY",
+        "stationId": "44017",
         "pubDate": "Sun, 09 Oct 2016 19:05:24 +0000",
         "description": [
             "<strong>October 9, 2016 1:50 pm EDT</strong><br />",
@@ -109,6 +116,7 @@
         ]
     }, {
         "title": "Station KPTN6 - 8516945 - KINGS POINT, NY",
+        "stationId": "KPTN6",
         "pubDate": "Sun, 09 Oct 2016 19:05:23 +0000",
         "description": [
             "<strong>October 9, 2016 2:30 pm EDT</strong><br />",
@@ -121,6 +129,7 @@
         ]
     }, {
         "title": "Station BATN6 - 8518750 - THE BATTERY, NY",
+        "stationId": "BATN6",
         "pubDate": "Sun, 09 Oct 2016 19:05:22 +0000",
         "description": [
             "<strong>October 9, 2016 2:30 pm EDT</strong><br />",
@@ -131,6 +140,7 @@
         ]
     }, {
         "title": "Station ROBN4 - 8530973 - ROBBINS REEF, NJ",
+        "stationId": "ROBN4",
         "pubDate": "Sun, 09 Oct 2016 19:05:21 +0000",
         "description": [
             "<strong>October 9, 2016 2:30 pm EDT</strong><br />",
@@ -143,6 +153,7 @@
         ]
     }, {
         "title": "Station SCP02 - NDBC/OPT ENGINEERING TEST STATION",
+        "stationId": "SCP02",
         "pubDate": "Sun, 09 Oct 2016 19:05:20 +0000",
         "description": [
             "<strong>October 9, 2016 2:50 pm EDT</strong><br />",
@@ -156,6 +167,7 @@
         ]
     }, {
         "title": "Station BGNN4 - 8519483 - BERGEN POINT WEST REACH, NY",
+        "stationId": "BGNN4",
         "pubDate": "Sun, 09 Oct 2016 19:05:19 +0000",
         "description": [
             "<strong>October 9, 2016 2:30 pm EDT</strong><br />",
@@ -166,6 +178,7 @@
         ]
     }, {
         "title": "Station MHRN6 - 8519532 - MARINERS HARBOR, NY",
+        "stationId": "MHRN6",
         "pubDate": "Sun, 09 Oct 2016 19:05:18 +0000",
         "description": [
             "<strong>October 9, 2016 2:30 pm EDT</strong><br />",
@@ -176,6 +189,7 @@
         ]
     }, {
         "title": "Station BRHC3 - 8467150 - BRIDGEPORT, CT",
+        "stationId": "BRHC3",
         "pubDate": "Sun, 09 Oct 2016 19:05:17 +0000",
         "description": [
             "<strong>October 9, 2016 2:30 pm EDT</strong><br />",
@@ -189,6 +203,7 @@
         ]
     }, {
         "title": "Station JCRN4 - NACOTE CREEK, JACQUES COUSTEAU RESERVE, NJ",
+        "stationId": "JCRN4",
         "pubDate": "Sun, 09 Oct 2016 19:05:16 +0000",
         "description": [
             "<strong>October 9, 2016 2:30 pm EDT</strong><br />",
@@ -201,6 +216,7 @@
         ]
     }, {
         "title": "Station ACYN4 - 8534720 - ATLANTIC CITY, NJ",
+        "stationId": "ACYN4",
         "pubDate": "Sun, 09 Oct 2016 19:05:15 +0000",
         "description": [
             "<strong>October 9, 2016 2:30 pm EDT</strong><br />",
@@ -211,6 +227,7 @@
         ]
     }, {
         "title": "Station NWHC3 - 8465705 - NEW HAVEN, CT",
+        "stationId": "NWHC3",
         "pubDate": "Sun, 09 Oct 2016 19:05:14 +0000",
         "description": [
             "<strong>October 9, 2016 2:30 pm EDT</strong><br />",
@@ -224,6 +241,7 @@
         ]
     }, {
         "title": "Station MTKN6 - 8510560 - MONTAUK, NY",
+        "stationId": "MTKN6",
         "pubDate": "Sun, 09 Oct 2016 19:05:13 +0000",
         "description": [
             "<strong>October 9, 2016 2:30 pm EDT</strong><br />",
@@ -234,6 +252,7 @@
         ]
     }, {
         "title": "Station NBLP1 - 8548989 - NEWBOLD, PA",
+        "stationId": "NBLP1",
         "pubDate": "Sun, 09 Oct 2016 19:05:12 +0000",
         "description": [
             "<strong>October 9, 2016 2:30 pm EDT</strong><br />",
@@ -247,6 +266,7 @@
         ]
     }, {
         "title": "Station BDRN4 - 8539094 - BURLINGTON, DELAWARE RIVER, NJ",
+        "stationId": "BDRN4",
         "pubDate": "Sun, 09 Oct 2016 19:05:11 +0000",
         "description": [
             "<strong>October 9, 2016 2:30 pm EDT</strong><br />",
@@ -260,6 +280,7 @@
         ]
     }, {
         "title": "Station LDLC3 - NEW LONDON LEDGE CT - LEDGE LIGHT WEATHER STATION",
+        "stationId": "LDLC3",
         "pubDate": "Sun, 09 Oct 2016 19:05:10 +0000",
         "description": [
             "<strong>October 9, 2016 2:35 pm EDT</strong><br />",
@@ -273,6 +294,7 @@
         ]
     }, {
         "title": "Station NLNC3 - 8461490 - NEW LONDON, CT",
+        "stationId": "NLNC3",
         "pubDate": "Sun, 09 Oct 2016 19:05:09 +0000",
         "description": [
             "<strong>October 9, 2016 2:30 pm EDT</strong><br />",
@@ -286,6 +308,7 @@
         ]
     }, {
         "title": "Station BDSP1 - 8546252 - BRIDESBURG, PA",
+        "stationId": "BDSP1",
         "pubDate": "Sun, 09 Oct 2016 19:05:08 +0000",
         "description": [
             "<strong>October 9, 2016 2:30 pm EDT</strong><br />",
@@ -295,6 +318,7 @@
         ]
     }, {
         "title": "Station PHBP1 - 8545240 - PHILADELPHIA, PA",
+        "stationId": "PHBP1",
         "pubDate": "Sun, 09 Oct 2016 19:05:07 +0000",
         "description": [
             "<strong>October 9, 2016 2:30 pm EDT</strong><br />",

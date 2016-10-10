@@ -1,12 +1,15 @@
 const React = require('react');
 const BuoyCard = require('./BuoyCard');
-const data = require('../data/data');
+const { object } = React.PropTypes;
 
 const Search = React.createClass({
   getInitialState () {
     return {
       searchTerm: ''
     };
+  },
+  propTypes: {
+    route: object
   },
   handleSearchTermEvent (event) {
     this.setState({ searchTerm: event.target.value });
@@ -19,10 +22,10 @@ const Search = React.createClass({
           <input value={this.state.searchTerm} className='search-input' type='text' placeholder='Search' onChange={this.handleSearchTermEvent} />
         </header>
         <div className='buoys'>
-          {data.buoys
+          {this.props.route.buoys
             .filter((buoy) => `${buoy.title} ${buoy.description}`.toUpperCase().indexOf(this.state.searchTerm.toUpperCase()) >= 0)
             .map((buoy) => (
-              <BuoyCard {...buoy} key={buoy.title} />
+              <BuoyCard {...buoy} key={buoy.stationId} />
           ))}
         </div>
       </div>
