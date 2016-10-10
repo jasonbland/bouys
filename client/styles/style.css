@@ -146,7 +146,7 @@ a > .buoy-card {
   font-size: 8px;
 }
 
-.header + .shows {
+.header + .buoys {
   margin-top: 25px;
 }
 
@@ -187,14 +187,14 @@ a > .buoy-card {
   text-decoration: none;
 }
 
-.video-container {
+.buoy-container {
   width: 100%;
   height: 0;
   padding-bottom: 56.25%;
   position: relative;
 }
 
-.video-container > iframe {
+.buoy-container > iframe {
   position: absolute;
   top: 0;
   left: 0;
@@ -211,22 +211,22 @@ a > .buoy-card {
   border-radius: 4px;
 }
 
-.video-poster {
+.buoy-image {
   width: 8%;
 }
 
-.video-info > * {
+.buoy-info > * {
   margin: 0 1%;
 }
 
-.video-info {
+.buoy-info {
   display: flex;
   justify-content: space-around;
   align-items: center;
   margin-bottom: 25px;
 }
 
-.header + .video-info {
+.header + .buoy-info {
   margin-top: 25px;
 }
 
