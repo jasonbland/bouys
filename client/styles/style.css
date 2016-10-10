@@ -76,14 +76,14 @@ html {
   border-radius: 5px;
 }
 
-.shows {
+.buoys {
   display: flex;
   flex-wrap: wrap;
   justify-content: space-around;
   width: 100%;
 }
 
-.shows > a {
+.buoys > a {
   width: 30%;
   height: 0;
   padding-bottom: 19.8%;
@@ -95,7 +95,7 @@ html {
   text-decoration: none;
 }
 
-a > .show-card {
+a > .buoy-card {
   width: 100%;
   padding-bottom: 70%;
   height: 0;
@@ -106,7 +106,7 @@ a > .show-card {
 
 }
 
-.show-card {
+.buoy-card {
   border: 2px solid #333;
   border-radius: 4px;
   text-align: left;
@@ -117,33 +117,33 @@ a > .show-card {
   margin-bottom: 3%;
 }
 
-.show-card-img {
+.buoy-card-img {
   width: 46%;
   float: left;
 }
 
-.show-card-text {
+.buoy-card-text {
   display: block;
   float: right;
   width: 52%;
-  overflow-y: scroll;
+  /*overflow-y: scroll;*/
 }
 
-.show-card-title {
+.buoy-card-title {
   margin-top: 0;
   margin-bottom: 5px;
 }
 
-.show-card-year {
+.buoy-card-year {
   margin-top: 0;
   margin-bottom: 5px;
   color: #666;
   font-size: 13px;
 }
 
-.show-card-description {
+.buoy-card-description {
   margin: 0;
-  font-size: 13px;
+  font-size: 8px;
 }
 
 .header + .shows {
@@ -229,3 +229,8 @@ a > .show-card {
 .header + .video-info {
   margin-top: 25px;
 }
+
+ul {
+    list-style:none;
+    padding-left:0;
+}​
