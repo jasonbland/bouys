@@ -1,22 +1,34 @@
 const React = require('react');
-const BuoyCard = require('./BuoyCard');
+const SavedBuoyCard = require('./SavedBuoyCard');
 const Header = require('./Header');
-const { object } = React.PropTypes;
+const $ = require('jquery');
 
-const Search = React.createClass({
-  getInitialState () {
-    return {
+class Favorites extends React.Component {
+  constructor (props) {
+    super(props);
+    this.state = {
+      savedBuoys: [],
       searchTerm: ''
     };
-  },
-
-  propTypes: {
-    route: object
-  },
+  }
 
   handleSearchTermChange (searchTerm) {
     this.setState({ searchTerm });
-  },
+  }
+
+  componentWillMount () {
+    $.ajax({
+      url: '/api/buoys',
+      type: 'GET',
+      success: (data) => {
+        console.log('success');
+        this.setState({savedBuoys: data});
+      },
+      error: () => {
+        console.log('failure');
+      }
+    });
+  }
 
   render () {
     return (
@@ -27,15 +39,15 @@ const Search = React.createClass({
           buoySearch
         />
         <div className='buoys'>
-          {this.props.route.buoys
+          {this.state.savedBuoys
             .filter((buoy) => `${buoy.title} ${buoy.description}`.toUpperCase().indexOf(this.state.searchTerm.toUpperCase()) >= 0)
             .map((buoy) => (
-              <BuoyCard {...buoy} key={buoy.stationId} />
+              <SavedBuoyCard {...buoy} key={buoy.stationId} />
           ))}
         </div>
       </div>
     );
   }
-});
+}
 
-module.exports = Search;
+module.exports = Favorites;

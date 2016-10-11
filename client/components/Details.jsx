@@ -4,7 +4,7 @@ const Header = require('./Header');
 class Details extends React.Component {
   render () {
     const params = this.props.params || {};
-    const { title, description, pubDate, stationId } = params;
+    const { title, description, stationId } = params;
 
     return (
       <div className='container'>
@@ -12,8 +12,7 @@ class Details extends React.Component {
         <div className='buoy-info'>
           <h1 className='buoy-title'>{title}</h1>
           <h2 className='buoy-year'>{stationId}</h2>
-          <h2 className='buoy-year'>{pubDate}</h2>
-          <img className='buoy-image' src={`client/images/buoy.jpg`} />
+          <img className='buoy-image' src={`../images/buoy.jpg`} />
           <ul className='buoy-description'>
             {description.map((detail) => (
               <li dangerouslySetInnerHTML={{__html: detail}} key={detail} />

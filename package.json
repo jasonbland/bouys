@@ -2,7 +2,7 @@
   "name": "buoy-station-tracker",
   "version": "1.0.0",
   "description": "Track your favorite buoy's so you can catch that next big swell",
-  "main": "index.js",
+  "main": "./server/server.js",
   "directories": {
     "test": "test"
   },
@@ -10,7 +10,8 @@
     "test": "mocha --require test/helpers/setup.js",
     "lint": "standard",
     "build": "webpack",
-    "watch": "webpack --watch"
+    "watch": "webpack --watch",
+    "start": "node ./server/server.js"
   },
   "repository": {
     "type": "git",
@@ -31,9 +32,13 @@
   "homepage": "https://github.com/tylerwebworx/mb#readme",
   "dependencies": {
     "axios": "^0.14.0",
+    "body-parser": "^1.4.3",
     "eslint": "^3.7.1",
-    "express": "^4.14.0",
+    "express": "^4.13.4",
+    "jquery": "^3.1.1",
     "lodash": "^4.16.4",
+    "mongoose": "^4.4.12",
+    "morgan": "^1.1.1",
     "react": "^15.3.2",
     "react-dom": "^15.3.2",
     "react-redux": "^4.4.5",

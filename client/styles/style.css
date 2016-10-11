@@ -27,8 +27,8 @@ html {
 }
 
 .title {
-  color: blue;
-  font-family: Raleway;
+  color: black;
+  font-family: Skia;
   font-weight: normal;
 }
 
@@ -84,9 +84,9 @@ html {
 }
 
 .buoys > a {
-  width: 30%;
+  width: 60%;
   height: 0;
-  padding-bottom: 19.8%;
+  padding-bottom: 30%;
   overflow: hidden;
   margin-bottom: 3%;
   border: 2px solid #333;
@@ -132,6 +132,7 @@ a > .buoy-card {
 .buoy-card-title {
   margin-top: 0;
   margin-bottom: 5px;
+  font-size: 15px;
 }
 
 .buoy-card-year {
@@ -143,7 +144,7 @@ a > .buoy-card {
 
 .buoy-card-description {
   margin: 0;
-  font-size: 8px;
+  font-size: 12px;
 }
 
 .header + .buoys {
@@ -168,12 +169,12 @@ a > .buoy-card {
 .brand {
   font-family: Skia;
   font-weight: normal;
-  color: #B10DC9;
+  color: black;
   margin: 0;
 }
 
 .brand > a {
-  color: #B10DC9;
+  color: black;
   text-decoration: none;
 }
 
@@ -220,7 +221,7 @@ a > .buoy-card {
 }
 
 .buoy-info {
-  display: flex;
+  /*display: flex;*/
   justify-content: space-around;
   align-items: center;
   margin-bottom: 25px;

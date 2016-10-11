@@ -2,9 +2,10 @@ const React = require('react');
 const ReactDOM = require('react-dom');
 const Landing = require('./components/Landing');
 const Search = require('./components/Search');
+const Favorites = require('./components/Favorites');
 const Layout = require('./components/Layout');
 const Details = require('./components/Details');
-const { Router, Route, IndexRoute, hashHistory } = require('react-router');
+const { Router, Route, IndexRoute, browserHistory } = require('react-router');
 const { buoys } = require('./data/data');
 
 const App = React.createClass({
@@ -20,10 +21,11 @@ const App = React.createClass({
   },
   render () {
     return (
-      <Router history={hashHistory}>
+      <Router history={browserHistory}>
         <Route path='/' component={Layout}>
           <IndexRoute component={Landing} />
           <Route path='/search' component={Search} buoys={buoys} />
+          <Route path='/favorites' component={Favorites} buoys={buoys} />
           <Route path='/details/:id' component={Details} onEnter={this.assignBuoy} />
         </Route>
       </Router>
