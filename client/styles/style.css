@@ -84,9 +84,9 @@ html {
 }
 
 .buoys > a {
-  width: 60%;
+  width: 40%;
   height: 0;
-  padding-bottom: 30%;
+  padding-bottom: 20%;
   overflow: hidden;
   margin-bottom: 3%;
   border: 2px solid #333;

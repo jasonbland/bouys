@@ -1,4 +1,4 @@
-// Server and Database setup
+// server setup
 var express = require('express');
 var app = express();
 var path = require('path');
@@ -65,6 +65,7 @@ app.delete('/api/buoys/:buoy_id', function (req, res) {
   });
 });
 
+// assign port to server
 var port = process.env.PORT || 4568;
 app.listen(port);
 console.log('Server now listening on port ' + port);

@@ -1,5 +1,4 @@
 /* eslint-env mocha */
-
 const { expect } = require('chai');
 const React = require('react');
 const Search = require('../client/components/Search');
@@ -7,6 +6,7 @@ const BuoyCard = require('../client/components/BuoyCard');
 const { shallow, mount } = require('enzyme');
 const { buoys } = require('../client/data/data');
 
+// testing for database transactions needs to be added
 describe('<Search /> ', () => {
   it('should render the brand', () => {
     const wrapper = shallow(<Search />);

@@ -24,7 +24,7 @@ class BuoyCard extends React.Component {
         console.log('success', data);
       }.bind(this),
       error: function () {
-        console.log('failure');
+        console.log('buoy post failure');
       }
     });
   }

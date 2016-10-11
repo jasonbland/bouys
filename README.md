@@ -6,8 +6,19 @@ Welcome to a Buoy Station Tracker!
 
 Please contribute, file issues, and make PRs.
 
-## License
+## Instructions
 
-MIT
+```
+git clone git@github.com:tylerwebworx/buoys.git
+cd buoys
+npm install
+npm run build
+mongod
+npm start
+```
 
 [gh-page]: http://tylerwebworx.github.io/
+
+
+
+

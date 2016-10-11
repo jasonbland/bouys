@@ -1,5 +1,6 @@
 const React = require('react');
 const Header = require('./Header');
+const { Link } = require('react-router');
 
 class Details extends React.Component {
   render () {
@@ -19,6 +20,11 @@ class Details extends React.Component {
             ))}
           </ul>
         </div>
+        <h2 className='header-back'>
+          <Link to='/search'>
+            Back
+          </Link>
+        </h2>
       </div>
     );
   }

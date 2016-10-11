@@ -16,6 +16,7 @@ class Favorites extends React.Component {
     this.setState({ searchTerm });
   }
 
+  // get all saved buoys
   componentWillMount () {
     $.ajax({
       url: '/api/buoys',
